@@ -1,7 +1,3 @@
-## Website link
-
-https://rent-car-websiteproject.onrender.com/home
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
