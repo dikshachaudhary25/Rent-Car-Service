@@ -1,6 +1,6 @@
 # Website Link- 
 
-https://rent-car-websiteproject.onrender.com/home
+https://rent-car-websiteproject.onrender.com/
 
 # Getting Started with Create React App
 
